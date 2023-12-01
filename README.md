@@ -4,4 +4,4 @@ For this project, I worked data from Maven Market, a multinational grocery chain
 
 ### Find the dashboard [here](https://www.novypro.com/project/grocery-chain-dashboard)
 
-<img src="https://github.com/Novid-Patsham/Grocery-Chain-Dashboard/blob/master/Maven%20Project.png" width="900" height="450">
+<img src="https://github.com/Novid-Patsham/Grocery-Chain-Dashboard/blob/master/maven%20img.png" width="900" height="450">
